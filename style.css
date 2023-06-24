@@ -3,8 +3,8 @@
     src: url(Oswald-VariableFont_wght.ttf);
 }
 .body{
-    width: 2840px;
-    height: 12900px;
+    width: 100%;
+    height: 100%;
     border: 2px solid black;
     background-color: black;
     
